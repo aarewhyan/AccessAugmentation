@@ -1,0 +1,8 @@
+com\example\chatclient\ChatappApplication.class
+com\example\chatclient\WebSocketConfig.class
+com\example\chatclient\WebSocketConfig$1$1.class
+com\example\chatclient\model\Message.class
+com\example\chatclient\model\Message$MessageBuilder.class
+com\example\chatclient\WebSocketConfig$1.class
+com\example\chatclient\controller\ChatController.class
+com\example\chatclient\dto\MessageDTO.class

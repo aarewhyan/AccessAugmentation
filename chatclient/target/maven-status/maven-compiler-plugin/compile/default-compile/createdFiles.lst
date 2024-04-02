@@ -1,0 +1,9 @@
+com\example\chatclient\WebSocketConfig.class
+com\example\chatclient\model\Message.class
+com\example\chatclient\model\Message$MessageBuilder.class
+com\example\chatclient\service\WebSocketService.class
+com\example\chatclient\ChatclientApplication.class
+com\example\chatclient\StompSessionHandlerImpl.class
+com\example\chatclient\controller\ChatController.class
+com\example\chatclient\advisor\ChatclientExceptionHandler.class
+com\example\chatclient\dto\MessageDTO.class
